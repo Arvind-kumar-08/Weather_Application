@@ -32,29 +32,6 @@ Material Design Components - For modern UI/UX
 
 Weather API -  OpenWeather for real-time weather data
 
-📦 Installation & Setup
-
-Clone this repository
-
-git clone https://github.com/yourusername/weather-app-kotlin.git
-
-Open the project in Android Studio
-
-Make sure you have the latest Android SDK and Kotlin plugins installed.
-
-Obtain an API Key
-
-Sign up on OpenWeatherMap (or your chosen weather API)
-
-Get your free API key.
-
-Add the API Key
-
-Open res/values/strings.xml and add:
-
-<string name="weather_api_key">YOUR_API_KEY</string>
-
-Build & Run the App on an emulator or a physical device.
 
 📸 Screenshots
 
